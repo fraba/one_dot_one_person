@@ -1,5 +1,9 @@
 # Italy: one dot = one person map
 
+## Output
+
+![alt text](https://github.com/fraba/one_dot_one_person/raw/master/ita_one_dot_one_person.jpg, "JPG 20640 × 23594")
+
 ## Sources
 
 * Population of census sections: [ISTAT](http://datiopen.istat.it/datasetCOM.php)
@@ -18,13 +22,13 @@
 
 * R
 
-..* DBI
-..* RPostgreSQL
-..* readr
-..* sp
-..* rgdal
-..* stringr
-..* rpostgis
+- DBI
+- RPostgreSQL
+- readr
+- sp
+- rgdal
+- stringr
+- rpostgis
 
 * PostgreSQL
 
