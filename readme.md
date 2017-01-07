@@ -18,13 +18,13 @@
 
 * R
 
-⋅⋅* DBI
-⋅⋅* RPostgreSQL
-⋅⋅* readr
-⋅⋅* sp
-⋅⋅* rgdal
-⋅⋅* stringr
-⋅⋅* rpostgis
+..* DBI
+..* RPostgreSQL
+..* readr
+..* sp
+..* rgdal
+..* stringr
+..* rpostgis
 
 * PostgreSQL
 
