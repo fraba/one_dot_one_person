@@ -2,7 +2,11 @@
 
 ## Output
 
-![JPG 21417 × 24809](https://github.com/fraba/one_dot_one_person/raw/master/ita_one_dot_one_person.jpg)
+![JPG 12598 × 14593](https://github.com/fraba/one_dot_one_person/raw/master/ita_one_dot_one_person_lowdef.jpg)
+
+High definition map: 21417 × 24809 (21.7 MB)
+
+Low definition map: 12598 × 14593 (8.5 MB) 
 
 ## Sources
 
