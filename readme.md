@@ -2,7 +2,7 @@
 
 ## Output
 
-![JPG 20640 × 23594](https://github.com/fraba/one_dot_one_person/raw/master/ita_one_dot_one_person.jpg)
+![JPG 21417 × 24809](https://github.com/fraba/one_dot_one_person/raw/master/ita_one_dot_one_person.jpg)
 
 ## Sources
 
